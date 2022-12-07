@@ -1,1 +1,1 @@
-# acd-2022-dna-workhop
+# aws-dna-workhop
